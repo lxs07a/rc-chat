@@ -41,6 +41,13 @@ Style decisions:<br>
 3. Starting the app
 
     ```
+    npm run dev
+    ```
+    concurrently starts the back end and the front end. <br>
+
+    Alternatively:
+
+    ```
     cd path/to/chat/backend; npm start
     ```
     ```
